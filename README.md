@@ -5,7 +5,7 @@ Course Materials from Mathematics for ML Course / Coursera/Imperial College Lond
 
 ## Course Overview and Syllabus
 Linear Algebra
-##### Week 1: <ul> Intro to Linear Algebra and to Mathematics for Machine Learning </ul>
+##### Week 1: <ul><li>Intro to Linear Algebra and to Mathematics for Machine Learning</li></ul>
 ##### Week 2: Vectors are objects that move around in space
 ##### Week 3: Matrices in Linear Algebra: Objects that operate on Vectors
 ##### Week 4: Identifying Special Matrices
