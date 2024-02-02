@@ -4,6 +4,8 @@ Course Materials from Mathematics for ML Course / Coursera/Imperial College Lond
 3 Separate Modules
 
 ## Course Syllabus
-Module 1: Linear Algebra
-Module 2: Multivariate Calculus
+Module 1: Linear Algebra  
+
+Module 2: Multivariate Calculus  
+
 Module 3: Principle Component Analysis (PCA)
