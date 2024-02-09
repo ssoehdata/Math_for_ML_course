@@ -2,7 +2,7 @@
 Course Materials from Mathematics for ML Course / Coursera/Imperial College London
 
 ![Python](https://a11ybadges.com/badge?logo=python)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![scikit-learn](https://a11ybadges.com/badge?logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 3 Separate Modules
