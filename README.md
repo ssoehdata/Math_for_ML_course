@@ -1,7 +1,7 @@
 # Math_for_ML_course_
 Course Materials from Mathematics for ML Course / Coursera/Imperial College London
 
-![Python](https://a11ybadges.com/badge?logo=python)   
+![Python](https://a11ybadges.com/badge?logo=python)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![scikit-learn](https://a11ybadges.com/badge?logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 
 
 
